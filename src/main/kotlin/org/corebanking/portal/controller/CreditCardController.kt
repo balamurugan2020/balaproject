@@ -3,9 +3,6 @@ package org.corebanking.portal.controller
 import org.corebanking.portal.entity.CreditCard
 import org.corebanking.portal.service.CardManager
 
-// import com.virtusa.capstone.entity.CreditCard
-// import com.virtusa.capstone.service.CreditCardService
-
 
 class CreditCardController(val creditCardManager: CardManager): BaseController() {
 

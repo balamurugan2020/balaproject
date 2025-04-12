@@ -6,7 +6,7 @@ plugins {
 	kotlin("plugin.jpa") version "1.9.25"
 }
 
-group = "com.virtusa.capstone"
+group = "com.corebanking.capstone"
 version = "0.0.1-SNAPSHOT"
 
 java {
